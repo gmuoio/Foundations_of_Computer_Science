@@ -1,2 +1,2 @@
-# Project Foundations of Computer Science
+# Foundations of Computer Science project
 Development of a jupyter notebook
